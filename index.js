@@ -1,1 +1,1 @@
-console.log('Hello from docker 36425!!6\');
+console.log('Hello from docker 36425!!6');
